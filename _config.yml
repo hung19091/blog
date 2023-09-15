@@ -32,7 +32,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             <script
               repo="hung19091/blog_comment"
               src="https://utteranc.es/client.js"
-              issue-term="url"
+              issue-term="url"+"baseurl"
               theme="github-light"
               crossorigin="anonymous"
               async="async"
